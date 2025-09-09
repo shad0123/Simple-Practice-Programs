@@ -6,7 +6,8 @@
 4. Write a program to calculate the area of a rectangle.
 5. Write a program to calculate the area of a triangle.
 6. Write a program to swap two numbers (using a temporary variable).
-7. Write a program to find the square and cube of a number.
-8. Write a program to convert temperature from Celsius to Fahrenheit.
-9. Write a program to calculate simple interest.
-10. Write a program to calculate the perimeter of a rectangle.
+7. Write a program to swap two numbers (without using a temporary variable).
+8. Write a program to find the square and cube of a number.
+9. Write a program to convert temperature from Celsius to Fahrenheit.
+10. Write a program to calculate simple interest.
+11. Write a program to calculate the perimeter of a rectangle.
